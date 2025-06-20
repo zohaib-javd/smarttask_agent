@@ -96,7 +96,7 @@ _Coming soon (e.g., Render, Railway, Hugging Face)_
 
 ## 👨‍💻 Author
 
-**Zohaib Javed (Sāmiyon)**  
+**Zohaib Javed**  
 📧 Email: [zohaibjaved@gmail.com](mailto:zohaibjaved@gmail.com)  
 🔗 LinkedIn: [https://www.linkedin.com/in/zohaib-javd](https://www.linkedin.com/in/zohaib-javd)  
 ❎ X: [https://x.com/zohaibjaved](https://x.com/zohaibjaved)
